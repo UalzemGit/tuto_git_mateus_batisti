@@ -5,3 +5,8 @@ SENHA EMAIL USADO - #1670developerGIT@2023
 GITHUB:
 USERNAME - UalzemGit
 SENHA DO GITHUB CRIADO - xxXX@933UALZEMdeveloper#
+
+-------------------------------------------------------------------------
+
+REPOSITÓRIO DO MINI CURSO:
+https://github.com/UalzemGit/tuto_git_mateus_batisti.git
